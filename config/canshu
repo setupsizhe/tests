@@ -1,0 +1,235 @@
+-
+    rowNum: 2
+    ID: 1
+    url: http://192.168.2.7:8080/xjcartoon_BtopInterface_gcmatch/areaSinger/getAreaSong
+    method: get
+    params:
+        songTypeId: 1
+        singerTypeId: 11
+    statuscode: ''
+    error: ''
+    result: ''
+    msg: ''
+    times: ''
+    checkpoint: '操作成功'
+-
+    rowNum: 3
+    ID: 2
+    url: http://192.168.2.7:8080/xjcartoon_BtopInterface_gcmatch/areaSinger/getAreaSong
+    method: post
+    params:
+        songTypeId: 1
+        singerTypeId: 12
+    error: ''
+    result: ''
+    msg: ''
+    times: ''
+    checkpoint: '操作成功'
+-
+    rowNum: 4
+    ID: 3
+    url: http://192.168.2.7:8080/xjcartoon_BtopInterface_gcmatch/areaSinger/getAreaSong
+    method: post
+    params:
+        songTypeId:
+        singerTypeId: "HH"
+    error: ''
+    result: ''
+    msg: ''
+    times: ''
+    checkpoint: '参数不合法'
+-
+    rowNum: 4
+    ID: 3
+    url: http://192.168.2.7:8080/xjcartoon_BtopInterface_gcmatch/areaSinger/getAreaSong
+    method: post
+    params:
+        songTypeId:
+        singerTypeId: "HH"
+    error: ''
+    result: ''
+    msg: ''
+    times: ''
+    checkpoint: '参数不合法'
+-
+    rowNum: 4
+    ID: 3
+    url: http://192.168.2.7:8080/xjcartoon_BtopInterface_gcmatch/areaSinger/getAreaSong
+    method: post
+    params:
+        songTypeId:
+        singerTypeId: "HH"
+    error: ''
+    result: ''
+    msg: ''
+    times: ''
+    checkpoint: '参数不合法'
+-
+    rowNum: 4
+    ID: 3
+    url: http://192.168.2.7:8080/xjcartoon_BtopInterface_gcmatch/areaSinger/getAreaSong
+    method: post
+    params:
+        songTypeId:
+        singerTypeId: "HH"
+    error: ''
+    result: ''
+    msg: ''
+    times: ''
+    checkpoint: '参数不合法'
+-
+    rowNum: 4
+    ID: 3
+    url: http://192.168.2.7:8080/xjcartoon_BtopInterface_gcmatch/areaSinger/getAreaSong
+    method: post
+    params:
+        songTypeId:
+        singerTypeId: "HH"
+    error: ''
+    result: ''
+    msg: ''
+    times: ''
+    checkpoint: '参数不合法'
+-
+    rowNum: 4
+    ID: 3
+    url: http://192.168.2.7:8080/xjcartoon_BtopInterface_gcmatch/areaSinger/getAreaSong
+    method: post
+    params:
+        songTypeId:
+        singerTypeId: "HH"
+    error: ''
+    result: ''
+    msg: ''
+    times: ''
+    checkpoint: '参数不合法'
+-
+    rowNum: 4
+    ID: 3
+    url: http://192.168.2.7:8080/xjcartoon_BtopInterface_gcmatch/areaSinger/getAreaSong
+    method: post
+    params:
+        songTypeId:
+        singerTypeId: "HH"
+    error: ''
+    result: ''
+    msg: ''
+    times: ''
+    checkpoint: '参数不合法'
+-
+    rowNum: 4
+    ID: 3
+    url: http://192.168.2.7:8080/xjcartoon_BtopInterface_gcmatch/areaSinger/getAreaSong
+    method: post
+    params:
+        songTypeId:
+        singerTypeId: "HH"
+    error: ''
+    result: ''
+    msg: ''
+    times: ''
+    checkpoint: '参数不合法'
+-
+    rowNum: 4
+    ID: 3
+    url: http://192.168.2.7:8080/xjcartoon_BtopInterface_gcmatch/areaSinger/getAreaSong
+    method: post
+    params:
+        songTypeId:
+        singerTypeId: "HH"
+    error: ''
+    result: ''
+    msg: ''
+    times: ''
+    checkpoint: '参数不合法'
+-
+    rowNum: 4
+    ID: 3
+    url: http://192.168.2.7:8080/xjcartoon_BtopInterface_gcmatch/areaSinger/getAreaSong
+    method: post
+    params:
+        songTypeId:
+        singerTypeId: "HH"
+    error: ''
+    result: ''
+    msg: ''
+    times: ''
+    checkpoint: '参数不合法'
+-
+    rowNum: 4
+    ID: 3
+    url: http://192.168.2.7:8080/xjcartoon_BtopInterface_gcmatch/areaSinger/getAreaSong
+    method: post
+    params:
+        songTypeId:
+        singerTypeId: "HH"
+    error: ''
+    result: ''
+    msg: ''
+    times: ''
+    checkpoint: '参数不合法'
+-
+    rowNum: 4
+    ID: 3
+    url: http://192.168.2.7:8080/xjcartoon_BtopInterface_gcmatch/areaSinger/getAreaSong
+    method: post
+    params:
+        songTypeId:
+        singerTypeId: "HH"
+    error: ''
+    result: ''
+    msg: ''
+    times: ''
+    checkpoint: '参数不合法'
+-
+    rowNum: 4
+    ID: 3
+    url: http://192.168.2.7:8080/xjcartoon_BtopInterface_gcmatch/areaSinger/getAreaSong
+    method: post
+    params:
+        songTypeId:
+        singerTypeId: "HH"
+    error: ''
+    result: ''
+    msg: ''
+    times: ''
+    checkpoint: '参数不合法'
+-
+    rowNum: 4
+    ID: 3
+    url: http://192.168.2.7:8080/xjcartoon_BtopInterface_gcmatch/areaSinger/getAreaSong
+    method: post
+    params:
+        songTypeId:
+        singerTypeId: "HH"
+    error: ''
+    result: ''
+    msg: ''
+    times: ''
+    checkpoint: '参数不合法'
+-
+    rowNum: 4
+    ID: 3
+    url: http://192.168.2.7:8080/xjcartoon_BtopInterface_gcmatch/areaSinger/getAreaSong
+    method: post
+    params:
+        songTypeId:
+        singerTypeId: "HH"
+    error: ''
+    result: ''
+    msg: ''
+    times: ''
+    checkpoint: '参数不合法'
+-
+    rowNum: 4
+    ID: 3
+    url: http://192.168.2.7:8080/xjcartoon_BtopInterface_gcmatch/areaSinger/getAreaSong
+    method: post
+    params:
+        songTypeId:
+        singerTypeId: "HH"
+    error: ''
+    result: ''
+    msg: ''
+    times: ''
+    checkpoint: '参数不合法'
