@@ -3,22 +3,33 @@ import os
 import requests
 import sys
 import yaml
+import common.get_token as a
+
+
 
 # from common.readexcel import ExcelUti
 
 def send_requests(s, testdata):
+
+
     '''封装requests请求'''
     method = testdata["method"]
     url = testdata["url"]
     # url后面的params参数
+    Flag=testdata['Flag']
+    print(Flag)
     try:
         params = testdata["params"]
     except:
         params = None
     # 请求头部headers
     try:
-        headers = testdata["headers"]
-        print("请求头部：%s" % headers)
+        if Flag==1:
+            headers = a.get_token()
+        else:
+            headers=None
+
+        # print("请求头部：%s" % headers)
     except:
         headers = None
     # post请求body类型
@@ -78,6 +89,7 @@ def send_requests(s, testdata):
     except Exception as msg:
         res["msg"] = str(msg)
         return res
+
 
 if __name__ == "__main__":
     cur_path=os.path.dirname(os.path.realpath(__file__))

@@ -4,7 +4,7 @@ import ddt
 import requests
 import os
 
-from jiekou.common import request
+from common import request
 import yaml
 import sys
 cur_path=os.path.dirname(os.path.realpath(__file__))
@@ -12,7 +12,7 @@ yaml_path=os.path.join(cur_path,'D://unit//jiekou//config//canshu')
 print(cur_path)
 datas=open(yaml_path,'r',encoding='UTF-8')
 testdata=yaml.load(datas,Loader=yaml.FullLoader)
-# print(testdata)
+print(testdata)
 
 
 
@@ -23,7 +23,7 @@ class Test_api(unittest.TestCase):
         cls.s = requests.session()
 
     @ddt.data(*testdata)
-    def test_api(self, data):
+    def test01_api(self, data):
 
         res = request.send_requests(self.s, data)
         check = data["checkpoint"]
